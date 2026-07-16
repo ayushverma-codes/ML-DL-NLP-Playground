@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# CNN dataset
+DL/practice-02/mnist_train.csv
+DL/practice-02/mnist_test.csv
